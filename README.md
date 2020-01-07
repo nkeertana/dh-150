@@ -1,5 +1,2 @@
 # ux-design
 
-hello 
-
-hello
