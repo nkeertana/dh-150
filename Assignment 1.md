@@ -11,6 +11,9 @@ The community I want to contribute to with my UX design is the community of peop
 
 ##### Information about the website/app I chose for this project: 
 ###### Screenshot of the web/app:
+
+![alt text](Desktop/Screen Shot 2020-01-14 at 12.16.22 AM "Screenshot")
+
 ###### URL of the website: 
 
 https://breethe.com/my-place
