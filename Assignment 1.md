@@ -15,7 +15,7 @@ The community I want to contribute to with my UX design is the community of peop
 
 ###### Screenshot of the web/app:
 
-![Breethe Screenshot](Desktop\Screen Shot 2020-01-14 at 12.16.22 AM)
+![Breethe Screenshot](Desktop/Screen Shot 2020-01-14 at 12.16.22 AM.png)
 
 ###### URL of the website: 
 
@@ -37,9 +37,13 @@ Overall, this website has a lot of issues that makes it difficult for the user t
 
 The website does not do a good job of making it clear of what the status is for the user when they begin meditating. Once you start a meditation on the website, there is no quantitative indicator of how much time has elapsed in your meditation or of how much time is remaining in your meditation. There is only a bar, which provides a qualitative visual view for the user, which may not be helpful for someone who is pressed for time and needs to know their status. 
 
+![Breethe System Status Issue](Desktop/Screen Shot 2020-01-09 at 1.17.35 PM.png)
+
 ###### Match Between System and the Real World (Severity Rating: 2)
  
 The website has a good amount of match between system and the real world. In the website, the tabs are labeled “My Place,” “One-offs,” “Series,” “Well-being,” “Profile,” and “More.” “My Place” could be renamed to be “Home” as most other apps do to bring users back to the main page and the website has a “one-offs” tab that might be confusing, as they may be called “singles” to better match the real world, since “one-offs” is not a commonly used term. However, “Series,” “Well-being,” “Profile,” and “More” all match between the system and real world.
+
+![Breethe Real World Match Issue] (Desktop/Screen Shot 2020-01-09 at 1.53.53 PM.png)
 
 ###### User Control and Freedom (Severity Rating:  1)
 
@@ -47,8 +51,9 @@ In the website for Breethe, the user control and freedom is satisfactory. For ex
 
 ###### Consistency and Standards (Severity Rating: 2)
 
-In the website, there is not too much consistency and standardization. The subtopics all look similar, since they all have grey font, and are the same size font and have a symbol. However, in the options within the subtopics, the options are all different colors, making them inconsistent and unstandardized. This can be confusing for a user, because they will think that the different options are of different levels of organization within the website, although they are of the same level. 
-	
+In the website, there is not too much consistency and standardization. The subtopics all look similar, since they all have grey font, and are the same size font and have a symbol. However, in the options within the subtopics, the options are all different colors, making them inconsistent and unstandardized. This can be confusing for a user, because they will think that the different options are of different levels of organization within the website, although they are of the same level.
+
+![Breethe Consistency Issue] (Desktop/Screen Shot 2020-01-11 at 9.40.21 PM.png)	
 
 ###### Error Prevention (Severity Rating: 2)
 
