@@ -15,7 +15,7 @@ The community I want to contribute to with my UX design is the community of peop
 
 ###### Screenshot of the web/app:
 
-![alt text](C:\Users\Keertana\Desktop\Screen Shot 2020-01-14 at 12.16.22 AM "Screenshot")
+![Breethe Screenshot](Desktop\Screen Shot 2020-01-14 at 12.16.22 AM)
 
 ###### URL of the website: 
 
@@ -82,6 +82,8 @@ Breethe website’s help and documentation is satisfactory. In the help section,
 ##### Information about the website/app I chose for this project: 
 
 ###### Screenshot of the web/app:
+
+![Aura Screenshot](Downloads/IMG_5627.PNG)
 
 ###### URL of the website: 
 
