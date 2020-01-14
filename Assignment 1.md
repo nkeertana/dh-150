@@ -43,7 +43,7 @@ The website does not do a good job of making it clear of what the status is for 
  
 The website has a good amount of match between system and the real world. In the website, the tabs are labeled “My Place,” “One-offs,” “Series,” “Well-being,” “Profile,” and “More.” “My Place” could be renamed to be “Home” as most other apps do to bring users back to the main page and the website has a “one-offs” tab that might be confusing, as they may be called “singles” to better match the real world, since “one-offs” is not a commonly used term. However, “Series,” “Well-being,” “Profile,” and “More” all match between the system and real world.
 
-![Breethe Real World Match Issue] (Desktop/Screen Shot 2020-01-09 at 1.53.53 PM.png)
+![Breethe Real World Match Issue](Desktop/Screen Shot 2020-01-09 at 1.53.53 PM.png)
 
 ###### User Control and Freedom (Severity Rating:  1)
 
@@ -53,7 +53,7 @@ In the website for Breethe, the user control and freedom is satisfactory. For ex
 
 In the website, there is not too much consistency and standardization. The subtopics all look similar, since they all have grey font, and are the same size font and have a symbol. However, in the options within the subtopics, the options are all different colors, making them inconsistent and unstandardized. This can be confusing for a user, because they will think that the different options are of different levels of organization within the website, although they are of the same level.
 
-![Breethe Consistency Issue] (Desktop/Screen Shot 2020-01-11 at 9.40.21 PM.png)	
+![Breethe Consistency Issue](Desktop/Screen Shot 2020-01-11 at 9.40.21 PM.png)	
 
 ###### Error Prevention (Severity Rating: 2)
 
