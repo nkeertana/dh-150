@@ -1,10 +1,13 @@
 
-#Keertana Namuduri 
-##DH 150: User Experience Design 
+# Keertana Namuduri 
+
+## DH 150: User Experience Design 
 
 **Helping Users Increase Meditation**
 
-Description about the community you want to contribute to with your UX Design: The community I want to contribute to with my UX design is the community of people that struggle to manage their mental health. Some of the most common struggles that people face when it comes to their mental health is handling stress, anxiety, depression and getting a good night's sleep. 
+### Description about the community you want to contribute to with your UX Design: 
+
+<small> The community I want to contribute to with my UX design is the community of people that struggle to manage their mental health. Some of the most common struggles that people face when it comes to their mental health is handling stress, anxiety, depression and getting a good night's sleep. </small>
 
 Information about the website/app I chose for this project: 
 a. Screenshot of the web/app:
