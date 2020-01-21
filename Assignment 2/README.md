@@ -10,6 +10,8 @@ https://docs.google.com/forms/d/1kKgge5et5AciTsLMVis8GULXlk2Jn1BH9c3bNGSNVpM/edi
 
 #### Link to Pilot Usability Testing Video
 
+https://www.youtube.com/watch?v=JibhL47tnkE
+
 #### Findings from Usability Testing
 
 During the usability testing, my previous beliefs about the website being hard to navigate were affirmed. In order to find a meditation that a user wanted, there was no way to search it, and the user instead had to scroll through the long list of different meditations to find the one they wanted, which I originally thought was a very big issue with the website. I thought navigating favorites would be more difficult, since you must start playing a meditation to assign it to favorites instead of assigning it to favorites before clicking on it to play. Additionally, I realized I should have changed the instructions for the task where the user changes the password, so that the user changes the password to something with only lowercase letters or something that is very complicated so that they could see that there are no restrictions to whatever password they choose, and the website does not ask you to type it again, so it is very easy to mess up when typing a complicated password. Next time, I would give them more restrictions on the password they change to once they create their account, and have them log out and log back in with their new password.
