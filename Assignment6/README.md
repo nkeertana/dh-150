@@ -1,8 +1,8 @@
-##Description of project
+## Description of project
 
 For this project, I decided that the three features that I would be implementing are features that allow you to add labels/tags to meditations, a filter/sort button and a search bar. My user research showed that I need to make the Breethe website more minimalist, and the three personas I used were a yoga teacher, a product manager working in corporate and a retired veteran. 
 
-##Reflection
+## Reflection
 
 The process went fairly smoothly for me since it was very clear how the flow would work when navigating through the website. I didm, however, have some confusion on how to go about conducting it, since there are many features of the app that are not there but should be to make it a user-friendly app that I decided to add in and I wasn't sure if this was allowed. Additionally, I found that there were many different possibilities for how the flow could have gone and I was not sure how many of those possibilities to put in or how to insert them into the wireflow, and what features and other things I needed to account for. 
 
