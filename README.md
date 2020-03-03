@@ -1,13 +1,16 @@
 
 ## Project title + Your name
 
+Minimalist Meditation 
+DH 150: Keertana Namuduri
+
 ## Introduction: a brief information about the project. 
 
-What is the project about? The motivation of the project and possible contribution.
+The project is about making meditation accessible, easy to use, minimalist and quick to find. I wanted to help the community of people that suffer from anxiety, depression or just people that are struggling with their mental health. 
 
 ## Clear design statement: 
 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+The clear design issue that it is difficult to find meditations that a user may want to do, since there is no filter or search and no clear sense of organization.  
 
 ## Competitor analysis [assignment01 & 02]:
 
