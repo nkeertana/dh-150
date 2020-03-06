@@ -117,6 +117,10 @@ Are there any kinds of searches that you do NOT attempt to satisfy using the int
 
 https://docs.google.com/document/d/1WlNtdmEmVVCV-NuUli15XZNZ9ELX573eztYwP29LIFc/edit?usp=sharing
 
+#### Image of Notes from Interview
+
+![image](/Users/Keertana/Downloads/IMG_4433.jpg)
+
 #### Reflection
 
 From this asssignment I learned that next time I conduct usability testing, I have to be more specific with what exactly I want them to search for and find, or I need to give them more tasks, since the testing went by very quickly. I learned that people don't spend as much time on their searches and do not do a thorough search so next time I would encourage a more thorough search to find the best answer to the search task.
