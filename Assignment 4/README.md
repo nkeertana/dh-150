@@ -119,7 +119,7 @@ https://docs.google.com/document/d/1WlNtdmEmVVCV-NuUli15XZNZ9ELX573eztYwP29LIFc/
 
 #### Image of Notes from Interview
 
-![image](/Users/Keertana/Downloads/IMG_4433.jpg)
+![alt text](IMG_4433.jpg "Notes from Interview")
 
 #### Reflection
 
