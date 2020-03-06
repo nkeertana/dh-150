@@ -19,6 +19,10 @@ I will be interviewing with participatory observation.
 
 We will be meeting in the lounges in Sproul Hall. I will have the user search up the benefits of meditation and how meditation can help them. Once they have understood the background and have done the research, I will have them find a website that offers meditations. Then, I’ll have them look for a meditation that targets their specific needs. Then, I’ll have them start their search outside of the website and look for a meditation that fits that specific need only. I will interact with the user by introducing to them the goal of the design I’m studying and inform them that their user input will be helpful to gain a better understanding of how to accomplish this goal. I will collect user data through a voice recording.
 
+### Link to audio of interview:
+
+https://drive.google.com/file/d/1S16HZK_4IVY_MGjELXus45Dw2bnM0SGt/view?usp=sharing
+
 ## I will use this script as an introduction to my interview:
 
 Thank you for participating!
