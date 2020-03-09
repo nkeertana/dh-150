@@ -10,7 +10,7 @@ In the old version, the graphical design of the website was very blue and was ma
 
 *Old Scenario #1 (Labels)*: https://www.figma.com/proto/L1V37oj9PdxTMIZfphc8RA/DH150?node-id=74%3A520&scaling=scale-down
 
-![alt text] (Scenario#1 (Labels).png "Scenario #1 in Old Version")
+![alt text](Scenario#1 (Labels).png "Scenario #1 in Old Version")
 
 *Old Scenario #2 (Filter)*: https://www.figma.com/proto/L1V37oj9PdxTMIZfphc8RA/DH150?node-id=37%3A36&scaling=min-zoom
 
