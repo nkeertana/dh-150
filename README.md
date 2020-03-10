@@ -51,4 +51,8 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ## Pitch video 
 
+https://www.youtube.com/watch?v=R8Rg_LsVoUI
+
 ## Conclusion: what did you learn throughout the process?
+
+Throughout this process, I learned that user experience design is much more than just creating an aesthetic looking app that users like looking at. UX Design would be nothing without the research that is done for it and the usability testing, so there needs to be many people that are looking at the product and putting in their input for you to create a useful product. Additionally, there needs to be a lot of thought put into the personas to understand the range of people that may be interacting with the product and how to cater to all of those needs. Therefore, my biggest take away is that the UI aspect of design is completely propelled by the UX Research that happens. 
