@@ -1,5 +1,5 @@
 
-## Project titl
+## Project title
 Just Breethe 
 DH 150: Keertana Namuduri
 
